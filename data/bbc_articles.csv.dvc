@@ -1,0 +1,5 @@
+outs:
+- md5: 8275552918d9687cb1ff10fa50954a22
+  size: 24262
+  hash: md5
+  path: bbc_articles.csv

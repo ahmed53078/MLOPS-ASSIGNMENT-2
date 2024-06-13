@@ -1,0 +1,5 @@
+outs:
+- md5: 27cabc57eb230b5bd4e8b84ab6040a3e
+  size: 16501
+  hash: md5
+  path: dawn_news_articles.csv
